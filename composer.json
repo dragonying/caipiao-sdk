@@ -16,7 +16,6 @@
         ]
     },
     "require": {
-        "dragonying/cptest": "dev-master"
     },
     "repositories": {
         "packagist": {
