@@ -1,0 +1,28 @@
+{
+    "name": "caipiao/forcast",
+    "description": "彩票预测",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fangyingzhong",
+            "email": "qfdy6688@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "tools.php"
+        ]
+    },
+    "require": {
+        "ergebnis/json-printer": "dev-master",
+        "dragonying/cptest": "dev-master"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
