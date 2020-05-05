@@ -12,3 +12,4 @@ use \ZfyCmps\ZfyCpTest\Tool;
 $a = [1,2,3,4];
 Tool::index();
 p($a);
+echo 'heheh';
