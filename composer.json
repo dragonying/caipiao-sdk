@@ -16,7 +16,6 @@
         ]
     },
     "require": {
-        "ergebnis/json-printer": "dev-master",
         "dragonying/cptest": "dev-master"
     },
     "repositories": {
